@@ -1,0 +1,57 @@
+Chevy,Sonic,1749,Cerulean
+Ford,Fiesta,1694,Black Olive
+Honda,Fit,1821,Blue Bell
+Hyundai,Accent,1821,Blue-Gray
+Kia,Rio,1812,Blue-Green
+Mazda,2,2052,Blue Lagoon
+Mitsubishi,Mirage,2084,Blue-Magenta Violet
+Nissan,Versa,1859,Blue Sapphire
+Scion,xD,1945,Blue-Violet
+Toyota,Yaris,1953,Cornsilk
+Chevy,Cruze,1902,Cosmic Latte
+Dodge,Dart,2073,Amethyst
+Ford,Focus,2014,Android Green
+Honda,Civic,1961,Anti-Flash White
+Hyundai,Elantra,1928,Antique Brass
+Kia,Forte,1977,Antique Bronze
+Mazda,3,2057,Antique Fuchsia
+Mitsubishi,Lancer,2079,Antique Ruby
+Nissan,Sentra,1839,Antique White
+Subaru,Impreza,1795,Electric Yellow
+Toyota,Corolla,2082,Baby Pink
+Chevy,Malibu,2040,Baby Powder
+Dodge,Avenger,1978,Baker-Miller Pink
+Ford,Fusion,1762,Ball Blue
+Hyundai,Sonata,1839,Banana Mania
+Kia,Optima,1910,Deep Red
+Mazda,6,1683,Bud Green
+Mitsubishi,Eclipse,1944,Bulgarian Rose
+Nissan,Altima,1896,Burgundy
+Subaru,Legacy,1946,Burlywood
+Toyota,Camry,1708,Burnt Orange
+Chevy,Impala,1785,Burnt Sienna
+Ford,Taurus,1721,Burnt Umber
+Honda,Accord,1986,French Violet
+Hyundai,Genesis,1848,French Wine
+Kia,Cadenza,1807,Fresh Air
+Nissan,Maxima,1786,Fuchsia
+Volvo,S40,2055,Flamingo Pink
+Nissan,Rogue,1815,Carmine Pink
+Volkswagen,Eos,1829,Carmine Red
+Volkswagen,Beetle,1896,Carnation Pink
+Hyundai,Tucson,2043,Carnelian
+Honda,CR-V,1942,Carolina Blue
+Toyota,RAV4,1740,Carrot Orange
+Nissan,JUKE,2009,Castleton Green
+Jeep,Compass,1776,Catalina Blue
+Nissan,Versa,2044,Catawba
+Porsche,911,1808,Cedar Chest
+GMC,Sierra,1840,Cobalt Blue
+Ford,F-Series,1842,Cocoa Brown
+Chevrolet,Corvette,1687,Coconut
+Chevrolet,Silverado,1736,Coffee
+BMW,M3,1756,Columbia Blue
+Audi,S4,2016,Flavescent
+Audi,A8,1938,Flax
+Cadillac,Escalade,1983,Flirt
+Maserati,Granturismo,1898,Floral White
