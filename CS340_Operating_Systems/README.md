@@ -21,5 +21,5 @@ have a short sleep and terminate.
 The last gnome to leave lets Sky-blue know that she can terminate as well.
 
 
-The End
+##The End
 Synchronize the gnomes and the princess threads based on the given story. Closely follow the story and the given implementation details.
