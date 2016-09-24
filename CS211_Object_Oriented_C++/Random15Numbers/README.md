@@ -11,5 +11,5 @@ The middle number is:
 The order is: 
 7 4 8 8 10 2 9 8 8 4 0 5 12 2 12 
 
-New order is 
+New order is:
 2 5 0 4 2 7 4 8 8 10 9 8 8 12 12 
