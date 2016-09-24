@@ -4,6 +4,7 @@ Number 0-8 are placed on a board.
 
 Goal for this exercise was to not have consecutive numbers adjacent to each other.
 
+Example output 
 
 |   |   |   |   |
 |---|---|---|---|
