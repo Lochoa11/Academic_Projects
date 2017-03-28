@@ -153,5 +153,4 @@ int main(int argc, char** argv){
 
 	ofstream englishTextDataOutputFile;
 	englishTextDataOutputFile.open(argv[4]);
-
 }
