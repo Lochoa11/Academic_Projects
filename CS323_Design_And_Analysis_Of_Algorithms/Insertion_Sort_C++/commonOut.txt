@@ -1,0 +1,117 @@
+Inserting data: (you)
+listHead -->(dummy, you)
+
+Inserting data: (i)
+listHead -->(dummy, i)-->(i, you)
+
+Inserting data: (he)
+listHead -->(dummy, he)-->(he, i)-->(i, you)
+
+Inserting data: (she)
+listHead -->(dummy, he)-->(he, i)-->(i, she)-->(she, you)
+
+Inserting data: (are)
+listHead -->(dummy, are)-->(are, he)-->(he, i)-->(i, she)-->(she, you)
+
+Inserting data: (is)
+listHead -->(dummy, are)-->(are, he)-->(he, i)-->(i, is)-->(is, she)-->(she, you)
+
+Inserting data: (was)
+listHead -->(dummy, are)-->(are, he)-->(he, i)-->(i, is)-->(is, she)-->(she, was)-->(was, you)
+
+Inserting data: (am)
+listHead -->(dummy, am)-->(am, are)-->(are, he)-->(he, i)-->(i, is)-->(is, she)-->(she, was)-->(was, you)
+
+Inserting data: (were)
+listHead -->(dummy, am)-->(am, are)-->(are, he)-->(he, i)-->(i, is)-->(is, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (of)
+listHead -->(dummy, am)-->(am, are)-->(are, he)-->(he, i)-->(i, is)-->(is, of)-->(of, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (and)
+listHead -->(dummy, am)-->(am, and)-->(and, are)-->(are, he)-->(he, i)-->(i, is)-->(is, of)-->(of, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (if)
+listHead -->(dummy, am)-->(am, and)-->(and, are)-->(are, he)-->(he, i)-->(i, if)-->(if, is)-->(is, of)-->(of, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (or)
+listHead -->(dummy, am)-->(am, and)-->(and, are)-->(are, he)-->(he, i)-->(i, if)-->(if, is)-->(is, of)-->(of, or)-->(or, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (him)
+listHead -->(dummy, am)-->(am, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, of)-->(of, or)-->(or, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (a)
+listHead -->(dummy, a)-->(a, am)-->(am, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, of)-->(of, or)-->(or, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (an)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, of)-->(of, or)-->(or, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (one)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, of)-->(of, one)-->(one, or)-->(or, she)-->(she, was)-->(was, were)-->(were, you)
+
+Inserting data: (yes)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, of)-->(of, one)-->(one, or)-->(or, she)-->(she, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (no)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, no)-->(no, of)-->(of, one)-->(one, or)-->(or, she)-->(she, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (on)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (in)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (that)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (the)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (they)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, they)-->(they, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (them)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, yes)-->(yes, you)
+
+Inserting data: (who)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, who)-->(who, yes)-->(yes, you)
+
+Inserting data: (what)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, who)-->(who, yes)-->(yes, you)
+
+Inserting data: (where)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, where)-->(where, who)-->(who, yes)-->(yes, you)
+
+Inserting data: (when)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, yes)-->(yes, you)
+
+Inserting data: (how)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, yes)-->(yes, you)
+
+Inserting data: (why)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (it)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (here)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (there)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (not)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, not)-->(not, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (this)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, not)-->(not, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, this)-->(this, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (for)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, for)-->(for, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, not)-->(not, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, this)-->(this, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (as)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, as)-->(as, for)-->(for, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, not)-->(not, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, this)-->(this, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+
+Inserting data: (be)
+listHead -->(dummy, a)-->(a, am)-->(am, an)-->(an, and)-->(and, are)-->(are, as)-->(as, be)-->(be, for)-->(for, he)-->(he, here)-->(here, him)-->(him, how)-->(how, i)-->(i, if)-->(if, in)-->(in, is)-->(is, it)-->(it, no)-->(no, not)-->(not, of)-->(of, on)-->(on, one)-->(one, or)-->(or, she)-->(she, that)-->(that, the)-->(the, them)-->(them, there)-->(there, they)-->(they, this)-->(this, was)-->(was, were)-->(were, what)-->(what, when)-->(when, where)-->(where, who)-->(who, why)-->(why, yes)-->(yes, you)
+

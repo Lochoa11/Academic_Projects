@@ -1,0 +1,57 @@
+
+Inserting: (you)
+listHead  --> (dummy, you)
+
+Inserting: (I)
+listHead  --> (dummy, I) --> (I, you)
+
+Inserting: (he)
+listHead  --> (dummy, he) --> (he, I) --> (I, you)
+
+Inserting: (she)
+listHead  --> (dummy, he) --> (he, I) --> (I, she) --> (she, you)
+
+Inserting: (are)
+listHead  --> (dummy, are) --> (are, he) --> (he, I) --> (I, she) --> (she, you)
+
+Inserting: (is)
+listHead  --> (dummy, are) --> (are, he) --> (he, I) --> (I, is) --> (is, she) --> (she, you)
+
+Inserting: (was)
+listHead  --> (dummy, are) --> (are, he) --> (he, I) --> (I, is) --> (is, she) --> (she, was) --> (was, you)
+
+Inserting: (am)
+listHead  --> (dummy, am) --> (am, are) --> (are, he) --> (he, I) --> (I, is) --> (is, she) --> (she, was) --> (was, you)
+
+Inserting: (were)
+listHead  --> (dummy, am) --> (am, are) --> (are, he) --> (he, I) --> (I, is) --> (is, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (of)
+listHead  --> (dummy, am) --> (am, are) --> (are, he) --> (he, I) --> (I, is) --> (is, of) --> (of, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (and)
+listHead  --> (dummy, am) --> (am, and) --> (and, are) --> (are, he) --> (he, I) --> (I, is) --> (is, of) --> (of, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (if)
+listHead  --> (dummy, am) --> (am, and) --> (and, are) --> (are, he) --> (he, I) --> (I, if) --> (if, is) --> (is, of) --> (of, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (or)
+listHead  --> (dummy, am) --> (am, and) --> (and, are) --> (are, he) --> (he, I) --> (I, if) --> (if, is) --> (is, of) --> (of, or) --> (or, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (him)
+listHead  --> (dummy, am) --> (am, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, of) --> (of, or) --> (or, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (a)
+listHead  --> (dummy, a) --> (a, am) --> (am, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, of) --> (of, or) --> (or, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (an)
+listHead  --> (dummy, a) --> (a, am) --> (am, an) --> (an, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, of) --> (of, or) --> (or, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (one)
+listHead  --> (dummy, a) --> (a, am) --> (am, an) --> (an, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, of) --> (of, one) --> (one, or) --> (or, she) --> (she, was) --> (was, were) --> (were, you)
+
+Inserting: (yes)
+listHead  --> (dummy, a) --> (a, am) --> (am, an) --> (an, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, of) --> (of, one) --> (one, or) --> (or, she) --> (she, was) --> (was, were) --> (were, yes) --> (yes, you)
+
+Inserting: (no)
+listHead  --> (dummy, a) --> (a, am) --> (am, an) --> (an, and) --> (and, are) --> (are, he) --> (he, him) --> (him, I) --> (I, if) --> (if, is) --> (is, no) --> (no, of) --> (of, one) --> (one, or) --> (or, she) --> (she, was) --> (was, were) --> (were, yes) --> (yes, you)
