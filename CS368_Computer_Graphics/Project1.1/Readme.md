@@ -1,0 +1,1 @@
+This is project 1.1 using openGL the goal was to draw an optical illusion. The two red lines are straight but they look bent because of intersecting lines.
