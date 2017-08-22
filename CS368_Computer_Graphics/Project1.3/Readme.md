@@ -1,0 +1,1 @@
+This is project 1.3 using openGL the goal was to draw an optical illusion. The squares looks like they are slanted but they are all in a straight line.

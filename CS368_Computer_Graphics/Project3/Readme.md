@@ -1,0 +1,1 @@
+This is project 3, using open gl the goal was to draw an animated 3d object that contained both a flat surface, and a curved surface. My animated object was Newtons Craddle. There is also simple commands the user can press to make the object rotate.

@@ -1,0 +1,1 @@
+This is project 1.2 using openGL the goal was to draw an optical illusion. There are 25 black squares and it looks like there are grey spots in the corner of the squares.
