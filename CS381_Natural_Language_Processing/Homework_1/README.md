@@ -4,9 +4,9 @@
 <h3>In this homework students were asked to do the following</h3>
 <h4>Preprocess the training and test corpora</h4>
 <ul>
-	<li>Pad each sentence beginning with <s> and end with </s></li>
+	<li>Pad each sentence with s tags</li>
 	<li>change all words to lowercase</li>
-	<li>replace all words occuring once with <unk></li>
+	<li>replace all words occuring once with unk tags</li>
 </ul>
 
 <h4>Train the models</h4>
