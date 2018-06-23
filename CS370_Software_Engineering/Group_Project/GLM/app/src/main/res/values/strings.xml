@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string-array name="types_array">
+        <item>Choose a type...</item>
+        <item>Drink</item>
+        <item>Fruit</item>
+        <item>Meat</item>
+    </string-array>
+</resources>
