@@ -247,11 +247,11 @@ void display (){
         red.drawLabel();
         
         
-        cout << "sliderVert[0][0] = " << sliderVert[0][0] << endl;
-        cout << "sliderVert[0][1] = " << sliderVert[0][1] << endl;
-        cout << "sliderVert[0][2] = " << sliderVert[0][2] << endl;
-        cout << "sliderVert[0][3] = " << sliderVert[0][3] << endl << endl;
-        
+//        cout << "sliderVert[0][0] = " << sliderVert[0][0] << endl;
+//        cout << "sliderVert[0][1] = " << sliderVert[0][1] << endl;
+//        cout << "sliderVert[0][2] = " << sliderVert[0][2] << endl;
+//        cout << "sliderVert[0][3] = " << sliderVert[0][3] << endl << endl;
+//
         green.drawTrack();
         green.setSlider();
         green.drawSlider();

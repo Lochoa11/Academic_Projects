@@ -1,0 +1,52 @@
+
+4.1
+	
+	a)
+		S[0] = 100.5
+		t[0] = 0
+		r    = 5.5% = 0.055
+		T = 0.75
+
+		F = S[0]*e^(r*(T-t[0]))
+		F = 100.5 * e^(0.055 * 0.75)
+		F = 104.7323
+
+	b) 
+		S[0] = 95.5
+		t[0] = 0
+		q    = 1.1% = 0.011
+		r    = 5.1% = 0.051
+		T    = 0.65
+
+		F = S[0]e^((r-q)(T-t[0]))
+		F = 95.5 * e^((0.051 - 0.011) * (0.65))
+		F = 98.01556
+
+4.2
+	
+	S[0] = 100.0
+	t[0] = 0
+	r = 5% = 0.05
+	T = 1
+	F = S[0]e^(r*(T-t[0]))
+	F = 100.0 * e^(0.05 * 1)
+	F = 105.1271
+
+	1. If the forward price is 105.0 enter into a forward contract to buy the stock.
+	2. We now sell one share of stock today.
+	3. We then save the money from the short sell in the bank to earn interest.
+	4. At time T the forward contract expires and we buy the stock at 105.0;
+
+	this yields .12711 profit
+
+	1. If the forward price is 106.0 we shall enter into a forward contract to sell the stock.
+	2. Then we buy the stock today by borrowing cash.
+	3. The forward contract expires and we sell the stock at 106.0
+
+	this yields .8729 profit
+
+4.3
+
+	S[0] = 100.0
+	
+
